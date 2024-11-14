@@ -1,4 +1,4 @@
-<H3>Dario G</H3>
+<H3>DARIO G</H3>
 <H3>212222230027</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
